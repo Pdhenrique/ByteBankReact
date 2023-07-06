@@ -2,6 +2,12 @@
 
 Este repositório contém uma aplicação React desenvolvida durante o curso "React JS: crie testes com Jest e Testing Library" da Alura. A aplicação é um front-end para o sistema do ByteBank, onde foram implementados testes automatizados utilizando as bibliotecas Jest e Testing Library.
 
+Curso Alura: [react-js-testes-automatizados-front-end](https://cursos.alura.com.br/course/react-js-testes-automatizados-front-end)
+
+## Tecnologias Utilizadas
+
+<img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
 ## Pré-requisitos
 
 Antes de executar a aplicação ou os testes, certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
